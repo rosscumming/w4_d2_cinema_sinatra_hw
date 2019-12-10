@@ -1,0 +1,24 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+body {
+  background: #6D454C;
+   }
+
+
+h1, h2, p {
+
+  color: #D89D6A
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: #D89D6A
+}
