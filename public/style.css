@@ -5,20 +5,36 @@ padding: 0;
 
 body {
   background: #6D454C;
+  font-family: Lato, sans-serif;
+
    }
+
+.container {
+  height: 100vh;
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
 
 
 h1, h2, p {
-
+  margin: 0 0 10px 0;
   color: #D89D6A
 }
 
 
 ul {
   list-style-type: none;
+  text-align: center;
+}
+
+li {
+  margin-bottom: 5px;
 }
 
 a {
   text-decoration: none;
-  color: #D89D6A
+  color: #D89D6A;
 }
